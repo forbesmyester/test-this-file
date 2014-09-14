@@ -1,0 +1,1 @@
+[ { "pattern": ".*\\.js$", "command": { "cmd": "echo", "args": ["[FILENAME]"] } } ]

@@ -1,0 +1,22 @@
+{
+  "name": "test-this-file",
+  "version": "0.9.0",
+  "description": "Unit tests individual files with the test program being picked by a config file per project",
+  "author": "Matthew Forrester <matt@keyboardwritescode.com>",
+  "dependencies": {
+    "passthru": "^0.3.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.5.5"
+  },
+  "engines": {
+    "node": ">0.9"
+  },
+  "bin": {
+    "test-this-file": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forbesmyester/test-this-file.git"
+  }
+}
